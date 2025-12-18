@@ -11,8 +11,7 @@ function App() {
   return (
     <>
     
-      <div className='ml-5 pt-6'> 
-      <button className="bg-sky-500 hover:bg-sky-700 p-3 mr-5 ">Save changes</button>
+      <div> 
        <Home />
        <Sure />
 
